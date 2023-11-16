@@ -24,7 +24,7 @@ Task:
 
     Represents data for machine processing.
     Involves numerical representations, matrices, tensors, or binary data.
-    Examples: One-hot encoding, word embeddings for NLP; and pixel values as numerical arrays in images.
+    Examples: One-hot encoding, word embeddings for NLP; pixel values as numerical arrays in images.
 
 Connection:
 
